@@ -28,4 +28,4 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 ![Architecture Diagram](https://github.com/tknishh/spark-youtube-analysis/blob/master/architecture.jpeg)
 
-*Note:* Some samples can be viewed [here](https://github.com/tknishh/spark-youtube-analysis/tree/master/outputs)
+
